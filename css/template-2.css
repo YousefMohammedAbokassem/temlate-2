@@ -534,7 +534,6 @@ header {
   text-align: center;
   line-height: 2;
   color: white;
-  padding: var(--section-padding);
   background-color: var(--transparent-color);
   position: absolute;
   top: 50%;
